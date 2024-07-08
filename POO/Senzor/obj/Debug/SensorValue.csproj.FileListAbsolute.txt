@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.exe.config
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.pdb
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\SensorValue.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\SensorValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\SensorValue.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.pdb
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\bin\Debug\Senzor.exe.config
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\bin\Debug\Senzor.exe
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\bin\Debug\Senzor.pdb
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\obj\Debug\SensorValue.csproj.AssemblyReference.cache
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\obj\Debug\SensorValue.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\obj\Debug\Senzor.exe
+C:\Users\Andi\Downloads\facultate\PSM II\POO\Senzor\obj\Debug\Senzor.pdb

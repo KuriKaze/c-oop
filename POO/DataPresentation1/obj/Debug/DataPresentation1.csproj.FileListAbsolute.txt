@@ -1,0 +1,31 @@
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\DataPresentation1.exe.config
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\DataPresentation1.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\DataPresentation1.pdb
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\Senzor.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\Senzor.pdb
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\bin\Debug\Senzor.exe.config
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.Properties.Resources.resources
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.csproj.CopyComplete
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.pdb
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\DataPresentation1\obj\Debug\DataPresentation1.Form1.resources
+C:\Diverse\facultate\POO\DataPresentation1\obj\Debug\DataPresentation1.exe
+C:\Diverse\facultate\POO\DataPresentation1\obj\Debug\DataPresentation1.pdb
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\DataPresentation1.exe.config
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\DataPresentation1.exe
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\DataPresentation1.pdb
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\Senzor.exe
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\Senzor.pdb
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\bin\Debug\Senzor.exe.config
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.csproj.AssemblyReference.cache
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.Form1.resources
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.Properties.Resources.resources
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.csproj.GenerateResource.cache
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPres.7C487930.Up2Date
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.exe
+C:\Users\Andi\Downloads\facultate\PSM II\POO\DataPresentation1\obj\Debug\DataPresentation1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.exe.config
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\bin\Debug\Senzor.pdb
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.exe
+C:\Users\Alex\Desktop\Horea Ciprian\HealthMonitor\Senzor\obj\Debug\Senzor.pdb
